@@ -15,9 +15,11 @@ nav {
 }
 p {
     margin:20px;
+    color: green;
 }
 footer {
     margin: 20px;
+    color: green;
 }
 section {
     font-size: 1em;line-height: 1.5em;
@@ -25,5 +27,4 @@ section {
 form{
     border: 1px solid gray;
     padding: 10px;
-    
 }
