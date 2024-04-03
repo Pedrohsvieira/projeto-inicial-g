@@ -20,6 +20,7 @@ p {
 footer {
     margin: 20px;
     color: green;
+    border-top: 2px solid red;
 }
 section {
     font-size: 1em;line-height: 1.5em;
