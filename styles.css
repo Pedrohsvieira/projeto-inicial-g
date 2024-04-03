@@ -19,3 +19,6 @@ p {
 footer {
     margin: 20px;
 }
+section {
+    font-size: 1em;line-height: 1.5em;
+}
