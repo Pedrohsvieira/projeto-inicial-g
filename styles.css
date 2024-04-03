@@ -22,3 +22,8 @@ footer {
 section {
     font-size: 1em;line-height: 1.5em;
 }
+form{
+    border: 1px solid gray;
+    padding: 10px;
+    
+}
